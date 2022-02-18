@@ -812,10 +812,6 @@
 
 <img src="success.jpg" alt="success">
 
-## super-confusing-man.png
-
-<img src="super-confusing-man.png" alt="super-confusing-man">
-
 ## surprise-backup.png
 
 <img src="surprise-backup.png" alt="surprise-backup">
