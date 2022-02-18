@@ -160,10 +160,6 @@
 
 <img src="change-my-mind.png" alt="change-my-mind">
 
-## chest-bump.gif
-
-<img src="chest-bump.gif" alt="chest-bump">
-
 ## clusterfuck-spongebob.jpg
 
 <img src="clusterfuck-spongebob.jpg" alt="clusterfuck-spongebob">
