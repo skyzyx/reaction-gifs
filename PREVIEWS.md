@@ -12,22 +12,6 @@
 
 <img src="8mile-you-ready.gif" alt="8mile-you-ready">
 
-## Dangerous-alone-take-1P4.png
-
-<img src="Dangerous-alone-take-1P4.png" alt="Dangerous-alone-take-1P4">
-
-## Jackie-Chan-WTF.jpg
-
-<img src="Jackie-Chan-WTF.jpg" alt="Jackie-Chan-WTF">
-
-## Super-Confusing-Man.png
-
-<img src="Super-Confusing-Man.png" alt="Super-Confusing-Man">
-
-## Using the right command on the wrong environment.gif
-
-<img src="Using the right command on the wrong environment.gif" alt="Using the right command on the wrong environment">
-
 ## activate.jpg
 
 <img src="activate.jpg" alt="activate">
@@ -48,9 +32,9 @@
 
 <img src="aliens.jpg" alt="aliens">
 
-## all the things.jpg
+## all-the-things.jpg
 
-<img src="all the things.jpg" alt="all the things">
+<img src="all-the-things.jpg" alt="all-the-things">
 
 ## all-those-buttons.gif
 
@@ -64,13 +48,13 @@
 
 <img src="ants.jpg" alt="ants">
 
-## archer.jpeg
+## archer.jpg
 
-<img src="archer.jpeg" alt="archer">
+<img src="archer.jpg" alt="archer">
 
-## are you a cop.gif
+## are-you-a-cop.gif
 
-<img src="are you a cop.gif" alt="are you a cop">
+<img src="are-you-a-cop.gif" alt="are-you-a-cop">
 
 ## awkward.gif
 
@@ -120,9 +104,9 @@
 
 <img src="bringing-pizza.gif" alt="bringing-pizza">
 
-## britney wtf.gif
+## britney-wtf.gif
 
-<img src="britney wtf.gif" alt="britney wtf">
+<img src="britney-wtf.gif" alt="britney-wtf">
 
 ## buck-stop-there.gif
 
@@ -152,13 +136,13 @@
 
 <img src="calvin-faces.gif" alt="calvin-faces">
 
-## calvin_hobbes_dont_knock_smock_1.gif
+## calvin-hobbes-dont-knock-smock-1.gif
 
-<img src="calvin_hobbes_dont_knock_smock_1.gif" alt="calvin_hobbes_dont_knock_smock_1">
+<img src="calvin-hobbes-dont-knock-smock-1.gif" alt="calvin-hobbes-dont-knock-smock-1">
 
-## calvin_hobbes_dont_knock_smock_2.gif
+## calvin-hobbes-dont-knock-smock-2.gif
 
-<img src="calvin_hobbes_dont_knock_smock_2.gif" alt="calvin_hobbes_dont_knock_smock_2">
+<img src="calvin-hobbes-dont-knock-smock-2.gif" alt="calvin-hobbes-dont-knock-smock-2">
 
 ## cant-or-wont.jpg
 
@@ -200,9 +184,9 @@
 
 <img src="compiling.png" alt="compiling">
 
-## continuous delivery.png
+## continuous-delivery.png
 
-<img src="continuous delivery.png" alt="continuous delivery">
+<img src="continuous-delivery.png" alt="continuous-delivery">
 
 ## conversation-over.gif
 
@@ -224,6 +208,10 @@
 
 <img src="dafuq.jpg" alt="dafuq">
 
+## dangerous-alone-take-1p.png
+
+<img src="dangerous-alone-take-1p.png" alt="dangerous-alone-take-1p">
+
 ## dat-ass.gif
 
 <img src="dat-ass.gif" alt="dat-ass">
@@ -236,13 +224,13 @@
 
 <img src="dense.png" alt="dense">
 
-## deploy at 5pm.jpg
+## deploy-at-5pm.jpg
 
-<img src="deploy at 5pm.jpg" alt="deploy at 5pm">
+<img src="deploy-at-5pm.jpg" alt="deploy-at-5pm">
 
-## dick punches brain.gif
+## dick-punches-brain.gif
 
-<img src="dick punches brain.gif" alt="dick punches brain">
+<img src="dick-punches-brain.gif" alt="dick-punches-brain">
 
 ## do-you-even-computer.jpg
 
@@ -252,9 +240,9 @@
 
 <img src="documentation.png" alt="documentation">
 
-## don't know what i expected.gif
+## don't-know-what-i-expected.gif
 
-<img src="don't know what i expected.gif" alt="don't know what i expected">
+<img src="don't-know-what-i-expected.gif" alt="don't-know-what-i-expected">
 
 ## dont-remember-asking-you.gif
 
@@ -340,9 +328,9 @@
 
 <img src="fix-the-oven.gif" alt="fix-the-oven">
 
-## flagrant system errpr.png
+## flagrant-system-errpr.png
 
-<img src="flagrant system errpr.png" alt="flagrant system errpr">
+<img src="flagrant-system-errpr.png" alt="flagrant-system-errpr">
 
 ## for-great-justice.jpeg
 
@@ -368,9 +356,9 @@
 
 <img src="golang.png" alt="golang">
 
-## good day.gif
+## good-day.gif
 
-<img src="good day.gif" alt="good day">
+<img src="good-day.gif" alt="good-day">
 
 ## great-success.jpg
 
@@ -400,13 +388,13 @@
 
 <img src="hackerman.jpg" alt="hackerman">
 
-## hair on fire.jpg
-
-<img src="hair on fire.jpg" alt="hair on fire">
-
 ## hair-on-back-of-neck.gif
 
 <img src="hair-on-back-of-neck.gif" alt="hair-on-back-of-neck">
+
+## hair-on-fire.jpg
+
+<img src="hair-on-fire.jpg" alt="hair-on-fire">
 
 ## hard-out-there-for-a-pimp.gif
 
@@ -416,9 +404,9 @@
 
 <img src="hello.gif" alt="hello">
 
-## help me help you.gif
+## help-me-help-you.gif
 
-<img src="help me help you.gif" alt="help me help you">
+<img src="help-me-help-you.gif" alt="help-me-help-you">
 
 ## high-five.gif
 
@@ -428,21 +416,21 @@
 
 <img src="hillary-whoa.gif" alt="hillary-whoa">
 
-## horse head.jpg
+## horse-head.jpg
 
-<img src="horse head.jpg" alt="horse head">
+<img src="horse-head.jpg" alt="horse-head">
 
-## hr.jpeg
+## hr.jpg
 
-<img src="hr.jpeg" alt="hr">
+<img src="hr.jpg" alt="hr">
 
-## i am a banana.jpg
+## i-am-a-banana.jpg
 
-<img src="i am a banana.jpg" alt="i am a banana">
+<img src="i-am-a-banana.jpg" alt="i-am-a-banana">
 
-## i have spoken.jpg
+## i-have-spoken.jpg
 
-<img src="i have spoken.jpg" alt="i have spoken">
+<img src="i-have-spoken.jpg" alt="i-have-spoken">
 
 ## i-messed-up.gif
 
@@ -460,6 +448,10 @@
 
 <img src="jack-jack.gif" alt="jack-jack">
 
+## jackie-chan-wtf.jpg
+
+<img src="jackie-chan-wtf.jpg" alt="jackie-chan-wtf">
+
 ## jd-sports.jpg
 
 <img src="jd-sports.jpg" alt="jd-sports">
@@ -468,9 +460,9 @@
 
 <img src="jlaw-nods.gif" alt="jlaw-nods">
 
-## just one of those days.jpg
+## just-one-of-those-days.jpg
 
-<img src="just one of those days.jpg" alt="just one of those days">
+<img src="just-one-of-those-days.jpg" alt="just-one-of-those-days">
 
 ## just-trying-to-be-evil.gif
 
@@ -480,9 +472,9 @@
 
 <img src="kapwing.gif" alt="kapwing">
 
-## kill-everybody.jpeg
+## kill-everybody.jpg
 
-<img src="kill-everybody.jpeg" alt="kill-everybody">
+<img src="kill-everybody.jpg" alt="kill-everybody">
 
 ## killing-me-smalls.png
 
@@ -572,17 +564,17 @@
 
 <img src="navi.gif" alt="navi">
 
-## no longer on-call.gif
-
-<img src="no longer on-call.gif" alt="no longer on-call">
-
 ## no-idea-what-im-doing.jpg
 
 <img src="no-idea-what-im-doing.jpg" alt="no-idea-what-im-doing">
 
-## node_modules.jpeg
+## no-longer-on-call.gif
 
-<img src="node_modules.jpeg" alt="node_modules">
+<img src="no-longer-on-call.gif" alt="no-longer-on-call">
+
+## node-modules.jpg
+
+<img src="node-modules.jpg" alt="node-modules">
 
 ## none-of-my-business.png
 
@@ -648,9 +640,9 @@
 
 <img src="now-for-something-completely-different6.jpg" alt="now-for-something-completely-different6">
 
-## oh snap.gif
+## oh-snap.gif
 
-<img src="oh snap.gif" alt="oh snap">
+<img src="oh-snap.gif" alt="oh-snap">
 
 ## omg.gif
 
@@ -664,17 +656,17 @@
 
 <img src="pam-banging-a-burrito.gif" alt="pam-banging-a-burrito">
 
-## pass the butter.png
+## pass-the-butter.png
 
-<img src="pass the butter.png" alt="pass the butter">
+<img src="pass-the-butter.png" alt="pass-the-butter">
 
 ## passwords.png
 
 <img src="passwords.png" alt="passwords">
 
-## pluto.jpeg
+## pluto.jpg
 
-<img src="pluto.jpeg" alt="pluto">
+<img src="pluto.jpg" alt="pluto">
 
 ## project-mismanagement.jpg
 
@@ -684,9 +676,9 @@
 
 <img src="r2d2-dalek-trek.jpg" alt="r2d2-dalek-trek">
 
-## rachel waiting.gif
+## rachel-waiting.gif
 
-<img src="rachel waiting.gif" alt="rachel waiting">
+<img src="rachel-waiting.gif" alt="rachel-waiting">
 
 ## rage-taking-over.gif
 
@@ -748,13 +740,13 @@
 
 <img src="scrubs-no.jpg" alt="scrubs-no">
 
-## shits broke yo.jpg
+## shits-broke-yo.jpg
 
-<img src="shits broke yo.jpg" alt="shits broke yo">
+<img src="shits-broke-yo.jpg" alt="shits-broke-yo">
 
-## shits on fire.jpg
+## shits-on-fire.jpg
 
-<img src="shits on fire.jpg" alt="shits on fire">
+<img src="shits-on-fire.jpg" alt="shits-on-fire">
 
 ## shocked.gif
 
@@ -764,13 +756,13 @@
 
 <img src="show-me-the-money.gif" alt="show-me-the-money">
 
-## silly hats only.gif
+## silly-hats-only.gif
 
-<img src="silly hats only.gif" alt="silly hats only">
+<img src="silly-hats-only.gif" alt="silly-hats-only">
 
-## slow down and fix your shit.jpeg
+## slow-down-and-fix-your-shit.jpg
 
-<img src="slow down and fix your shit.jpeg" alt="slow down and fix your shit">
+<img src="slow-down-and-fix-your-shit.jpg" alt="slow-down-and-fix-your-shit">
 
 ## slow-motion-train-wreck.gif
 
@@ -780,9 +772,9 @@
 
 <img src="smokebomb.png" alt="smokebomb">
 
-## so it begins.gif
+## so-it-begins.gif
 
-<img src="so it begins.gif" alt="so it begins">
+<img src="so-it-begins.gif" alt="so-it-begins">
 
 ## soon.jpg
 
@@ -824,9 +816,9 @@
 
 <img src="stfu.gif" alt="stfu">
 
-## strongbad_technology.jpg
+## strongbad-technology.jpg
 
-<img src="strongbad_technology.jpg" alt="strongbad_technology">
+<img src="strongbad-technology.jpg" alt="strongbad-technology">
 
 ## success.jpg
 
@@ -835,6 +827,10 @@
 ## sucking-life.jpg
 
 <img src="sucking-life.jpg" alt="sucking-life">
+
+## super-confusing-man.png
+
+<img src="super-confusing-man.png" alt="super-confusing-man">
 
 ## surprise-backup.png
 
@@ -915,6 +911,10 @@
 ## unstoppable.jpg
 
 <img src="unstoppable.jpg" alt="unstoppable">
+
+## using-the-right-command-on-the-wrong-environment.gif
+
+<img src="using-the-right-command-on-the-wrong-environment.gif" alt="using-the-right-command-on-the-wrong-environment">
 
 ## van-down-by-the-river.jpg
 
