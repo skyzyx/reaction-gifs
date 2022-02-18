@@ -96,9 +96,9 @@
 
 <img src="bender.gif" alt="bender">
 
-## break your concentration.gif
+## break-your-concentration.gif
 
-<img src="break your concentration.gif" alt="break your concentration">
+<img src="break-your-concentration.gif" alt="break-your-concentration">
 
 ## bringing-pizza.gif
 
@@ -328,10 +328,6 @@
 
 <img src="flagrant-system-errpr.png" alt="flagrant-system-errpr">
 
-## for-great-justice.jpeg
-
-<img src="for-great-justice.jpeg" alt="for-great-justice">
-
 ## for-great-justice.jpg
 
 <img src="for-great-justice.jpg" alt="for-great-justice">
@@ -488,9 +484,9 @@
 
 <img src="languages-playing-cards.gif" alt="languages-playing-cards">
 
-## les incompetents.gif
+## les-incompetents.gif
 
-<img src="les incompetents.gif" alt="les incompetents">
+<img src="les-incompetents.gif" alt="les-incompetents">
 
 ## let-me-hug-you.gif
 
@@ -928,10 +924,6 @@
 
 <img src="way-too-excited.gif" alt="way-too-excited">
 
-## what men want.png
-
-<img src="what men want.png" alt="what men want">
-
 ## what-are-they-kidding.gif
 
 <img src="what-are-they-kidding.gif" alt="what-are-they-kidding">
@@ -939,6 +931,10 @@
 ## what-is-this-i-cant-even.gif
 
 <img src="what-is-this-i-cant-even.gif" alt="what-is-this-i-cant-even">
+
+## what-men-want.png
+
+<img src="what-men-want.png" alt="what-men-want">
 
 ## what-the-what.gif
 
