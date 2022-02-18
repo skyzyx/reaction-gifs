@@ -68,10 +68,6 @@
 
 <img src="bad-decision.gif" alt="bad-decision">
 
-## bagel.gif
-
-<img src="bagel.gif" alt="bagel">
-
 ## bah-dum-tiss.gif
 
 <img src="bah-dum-tiss.gif" alt="bah-dum-tiss">
@@ -788,9 +784,9 @@
 
 <img src="spongebob.jpg" alt="spongebob">
 
-## squarepeg.gif
+## square-peg.gif
 
-<img src="squarepeg.gif" alt="squarepeg">
+<img src="square-peg.gif" alt="square-peg">
 
 ## squircle.gif
 
@@ -815,10 +811,6 @@
 ## success.jpg
 
 <img src="success.jpg" alt="success">
-
-## sucking-life.jpg
-
-<img src="sucking-life.jpg" alt="sucking-life">
 
 ## super-confusing-man.png
 
