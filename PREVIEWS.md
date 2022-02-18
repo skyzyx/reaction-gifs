@@ -284,9 +284,9 @@
 
 <img src="face-punch.gif" alt="face-punch">
 
-## false.jpeg
+## false.jpg
 
-<img src="false.jpeg" alt="false">
+<img src="false.jpg" alt="false">
 
 ## field-in-which-i-grow-my-fucks.png
 
