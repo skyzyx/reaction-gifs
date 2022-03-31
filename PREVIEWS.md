@@ -440,9 +440,9 @@
 
 <img src="jackie-chan-wtf.jpg" alt="jackie-chan-wtf">
 
-## jacks-surprise@2x.png
+## jacks-surprise.png
 
-<img src="jacks-surprise@2x.png" alt="jacks-surprise@2x">
+<img src="jacks-surprise.png" alt="jacks-surprise">
 
 ## jd-sports.jpg
 
@@ -471,10 +471,6 @@
 ## killing-me-smalls.png
 
 <img src="killing-me-smalls.png" alt="killing-me-smalls">
-
-## lack-of-surprise.jpg
-
-<img src="lack-of-surprise.jpg" alt="lack-of-surprise">
 
 ## lalalalalalala.gif
 
