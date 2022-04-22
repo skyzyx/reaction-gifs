@@ -284,6 +284,10 @@
 
 <img src="false.jpg" alt="false">
 
+## fancy.png
+
+<img src="fancy.png" alt="fancy">
+
 ## field-in-which-i-grow-my-fucks.png
 
 <img src="field-in-which-i-grow-my-fucks.png" alt="field-in-which-i-grow-my-fucks">
@@ -348,6 +352,10 @@
 
 <img src="good-day.gif" alt="good-day">
 
+## gotta-be-kidding-me.png
+
+<img src="gotta-be-kidding-me.png" alt="gotta-be-kidding-me">
+
 ## great-success.jpg
 
 <img src="great-success.jpg" alt="great-success">
@@ -404,6 +412,10 @@
 
 <img src="hillary-whoa.gif" alt="hillary-whoa">
 
+## hmmm.png
+
+<img src="hmmm.png" alt="hmmm">
+
 ## horse-head.jpg
 
 <img src="horse-head.jpg" alt="horse-head">
@@ -416,13 +428,33 @@
 
 <img src="i-am-a-banana.jpg" alt="i-am-a-banana">
 
+## i-had-something1.jpg
+
+<img src="i-had-something1.jpg" alt="i-had-something1">
+
+## i-had-something2.jpg
+
+<img src="i-had-something2.jpg" alt="i-had-something2">
+
 ## i-have-spoken.jpg
 
 <img src="i-have-spoken.jpg" alt="i-have-spoken">
 
+## i-know-that-feel-bro.png
+
+<img src="i-know-that-feel-bro.png" alt="i-know-that-feel-bro">
+
+## i-lied.png
+
+<img src="i-lied.png" alt="i-lied">
+
 ## i-messed-up.gif
 
 <img src="i-messed-up.gif" alt="i-messed-up">
+
+## i-see-what-you-did-there.png
+
+<img src="i-see-what-you-did-there.png" alt="i-see-what-you-did-there">
 
 ## its-a-trap.jpg
 
@@ -436,9 +468,9 @@
 
 <img src="jack-jack.gif" alt="jack-jack">
 
-## jackie-chan-wtf.jpg
+## jackie-chan-wtf.png
 
-<img src="jackie-chan-wtf.jpg" alt="jackie-chan-wtf">
+<img src="jackie-chan-wtf.png" alt="jackie-chan-wtf">
 
 ## jacks-surprise.png
 
@@ -527,6 +559,10 @@
 ## morpheus-kungfu.gif
 
 <img src="morpheus-kungfu.gif" alt="morpheus-kungfu">
+
+## mother-of-god.png
+
+<img src="mother-of-god.png" alt="mother-of-god">
 
 ## multi-facepalm.gif
 
@@ -652,9 +688,17 @@
 
 <img src="passwords.png" alt="passwords">
 
+## please-why.png
+
+<img src="please-why.png" alt="please-why">
+
 ## pluto.jpg
 
 <img src="pluto.jpg" alt="pluto">
+
+## pokerface.png
+
+<img src="pokerface.png" alt="pokerface">
 
 ## project-mismanagement.jpg
 
@@ -876,6 +920,10 @@
 
 <img src="threw-up-a-little.gif" alt="threw-up-a-little">
 
+## trees are sneezing.gif
+
+<img src="trees are sneezing.gif" alt="trees are sneezing">
+
 ## tribute.gif
 
 <img src="tribute.gif" alt="tribute">
@@ -883,6 +931,10 @@
 ## troll.gif
 
 <img src="troll.gif" alt="troll">
+
+## troll.png
+
+<img src="troll.png" alt="troll">
 
 ## unfinished-horse.png
 
@@ -979,6 +1031,10 @@
 ## yeet.gif
 
 <img src="yeet.gif" alt="yeet">
+
+## yuno.png
+
+<img src="yuno.png" alt="yuno">
 
 ## zoey-nods-no-biggie.gif
 
