@@ -60,6 +60,10 @@
 
 <img src="awkward.gif" alt="awkward">
 
+## ba-dum-tiss.gif
+
+<img src="ba-dum-tiss.gif" alt="ba-dum-tiss">
+
 ## backlog.jpg
 
 <img src="backlog.jpg" alt="backlog">
@@ -139,6 +143,10 @@
 ## calvin-hobbes-dont-knock-smock-2.gif
 
 <img src="calvin-hobbes-dont-knock-smock-2.gif" alt="calvin-hobbes-dont-knock-smock-2">
+
+## canada-gooses.jpg
+
+<img src="canada-gooses.jpg" alt="canada-gooses">
 
 ## cant-or-wont.jpg
 
@@ -272,9 +280,17 @@
 
 <img src="engineering-report.gif" alt="engineering-report">
 
+## everest.jpg
+
+<img src="everest.jpg" alt="everest">
+
 ## excited-opm.jpg
 
 <img src="excited-opm.jpg" alt="excited-opm">
+
+## extrapolate.png
+
+<img src="extrapolate.png" alt="extrapolate">
 
 ## face-punch.gif
 
@@ -331,6 +347,10 @@
 ## for-great-justice.jpg
 
 <img src="for-great-justice.jpg" alt="for-great-justice">
+
+## fuck-around-and-find-out.jpg
+
+<img src="fuck-around-and-find-out.jpg" alt="fuck-around-and-find-out">
 
 ## functional-tests-are-failing.gif
 
@@ -459,6 +479,10 @@
 ## its-a-trap.jpg
 
 <img src="its-a-trap.jpg" alt="its-a-trap">
+
+## its-working.gif
+
+<img src="its-working.gif" alt="its-working">
 
 ## ive-made-a-huge-mistake.png
 
@@ -628,6 +652,10 @@
 
 <img src="nope-wizard.jpg" alt="nope-wizard">
 
+## not-gonna-lie.gif
+
+<img src="not-gonna-lie.gif" alt="not-gonna-lie">
+
 ## not-really-but-ok.gif
 
 <img src="not-really-but-ok.gif" alt="not-really-but-ok">
@@ -688,6 +716,14 @@
 
 <img src="passwords.png" alt="passwords">
 
+## perimeter-of-wisdom.jpg
+
+<img src="perimeter-of-wisdom.jpg" alt="perimeter-of-wisdom">
+
+## perimeter-of-wisdom2.jpg
+
+<img src="perimeter-of-wisdom2.jpg" alt="perimeter-of-wisdom2">
+
 ## please-why.png
 
 <img src="please-why.png" alt="please-why">
@@ -700,9 +736,17 @@
 
 <img src="pokerface.png" alt="pokerface">
 
+## progeny.gif
+
+<img src="progeny.gif" alt="progeny">
+
 ## project-mismanagement.jpg
 
 <img src="project-mismanagement.jpg" alt="project-mismanagement">
+
+## q-to-12.jpg
+
+<img src="q-to-12.jpg" alt="q-to-12">
 
 ## r2d2-dalek-trek.jpg
 
@@ -772,6 +816,10 @@
 
 <img src="scrubs-no.jpg" alt="scrubs-no">
 
+## serenity-now.jpg
+
+<img src="serenity-now.jpg" alt="serenity-now">
+
 ## shits-broke-yo.jpg
 
 <img src="shits-broke-yo.jpg" alt="shits-broke-yo">
@@ -819,6 +867,10 @@
 ## spiderman-ugh.gif
 
 <img src="spiderman-ugh.gif" alt="spiderman-ugh">
+
+## spiderman.jpg
+
+<img src="spiderman.jpg" alt="spiderman">
 
 ## splinter-kids.jpg
 
@@ -888,6 +940,14 @@
 
 <img src="tests-are-failing.gif" alt="tests-are-failing">
 
+## thats-false.gif
+
+<img src="thats-false.gif" alt="thats-false">
+
+## the-other-way-though.gif
+
+<img src="the-other-way-though.gif" alt="the-other-way-though">
+
 ## the-robots-are-escaping.gif
 
 <img src="the-robots-are-escaping.gif" alt="the-robots-are-escaping">
@@ -920,13 +980,25 @@
 
 <img src="threw-up-a-little.gif" alt="threw-up-a-little">
 
+## too-busy.jpg
+
+<img src="too-busy.jpg" alt="too-busy">
+
 ## trees are sneezing.gif
 
 <img src="trees are sneezing.gif" alt="trees are sneezing">
 
+## trees-are-sneezing.gif
+
+<img src="trees-are-sneezing.gif" alt="trees-are-sneezing">
+
 ## tribute.gif
 
 <img src="tribute.gif" alt="tribute">
+
+## tried-turning-it-off-and-back-on-again.jpg
+
+<img src="tried-turning-it-off-and-back-on-again.jpg" alt="tried-turning-it-off-and-back-on-again">
 
 ## troll.gif
 
@@ -1024,6 +1096,10 @@
 
 <img src="wrong-solution-for-problem.gif" alt="wrong-solution-for-problem">
 
+## wtf-blink.gif
+
+<img src="wtf-blink.gif" alt="wtf-blink">
+
 ## wtf.gif
 
 <img src="wtf.gif" alt="wtf">
@@ -1031,6 +1107,10 @@
 ## yeet.gif
 
 <img src="yeet.gif" alt="yeet">
+
+## you-and-me-same.gif
+
+<img src="you-and-me-same.gif" alt="you-and-me-same">
 
 ## yuno.png
 
