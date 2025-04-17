@@ -12,9 +12,17 @@
 
 <img src="8mile-you-ready.gif" alt="8mile-you-ready">
 
+## aang-kissing.jpg
+
+<img src="aang-kissing.jpg" alt="aang-kissing">
+
 ## activate.jpg
 
 <img src="activate.jpg" alt="activate">
+
+## admin.jpg
+
+<img src="admin.jpg" alt="admin">
 
 ## agile-vs-waterfall.jpg
 
@@ -56,9 +64,17 @@
 
 <img src="are-you-a-cop.gif" alt="are-you-a-cop">
 
+## auth.jpg
+
+<img src="auth.jpg" alt="auth">
+
 ## awkward.gif
 
 <img src="awkward.gif" alt="awkward">
+
+## aws-seal-of-quality.png
+
+<img src="aws-seal-of-quality.png" alt="aws-seal-of-quality">
 
 ## ba-dum-tiss.gif
 
@@ -112,6 +128,10 @@
 
 <img src="buck-stop-there.gif" alt="buck-stop-there">
 
+## buddy-jesus.png
+
+<img src="buddy-jesus.png" alt="buddy-jesus">
+
 ## buffy-eyes.gif
 
 <img src="buffy-eyes.gif" alt="buffy-eyes">
@@ -127,6 +147,10 @@
 ## cake-is-a-lie.gif
 
 <img src="cake-is-a-lie.gif" alt="cake-is-a-lie">
+
+## california.jpg
+
+<img src="california.jpg" alt="california">
 
 ## calm-your-tits.jpg
 
@@ -163,6 +187,10 @@
 ## change-my-mind.png
 
 <img src="change-my-mind.png" alt="change-my-mind">
+
+## christian-household.jpg
+
+<img src="christian-household.jpg" alt="christian-household">
 
 ## clusterfuck-spongebob.jpg
 
@@ -256,6 +284,10 @@
 
 <img src="double-keyboard.gif" alt="double-keyboard">
 
+## doubt.jpg
+
+<img src="doubt.jpg" alt="doubt">
+
 ## duck-xing.gif
 
 <img src="duck-xing.gif" alt="duck-xing">
@@ -263,6 +295,14 @@
 ## eat-like-lower-middle-class.jpg
 
 <img src="eat-like-lower-middle-class.jpg" alt="eat-like-lower-middle-class">
+
+## eesh.gif
+
+<img src="eesh.gif" alt="eesh">
+
+## eesh2.gif
+
+<img src="eesh2.gif" alt="eesh2">
 
 ## electron.jpg
 
@@ -279,6 +319,10 @@
 ## engineering-report.gif
 
 <img src="engineering-report.gif" alt="engineering-report">
+
+## error.jpg
+
+<img src="error.jpg" alt="error">
 
 ## everest.jpg
 
@@ -348,9 +392,17 @@
 
 <img src="for-great-justice.jpg" alt="for-great-justice">
 
+## forever.png
+
+<img src="forever.png" alt="forever">
+
 ## fuck-around-and-find-out.jpg
 
 <img src="fuck-around-and-find-out.jpg" alt="fuck-around-and-find-out">
+
+## fuck-around.jpg
+
+<img src="fuck-around.jpg" alt="fuck-around">
 
 ## functional-tests-are-failing.gif
 
@@ -371,6 +423,10 @@
 ## good-day.gif
 
 <img src="good-day.gif" alt="good-day">
+
+## good-people-canary@2x.png
+
+<img src="good-people-canary@2x.png" alt="good-people-canary@2x">
 
 ## gotta-be-kidding-me.png
 
@@ -436,6 +492,10 @@
 
 <img src="hmmm.png" alt="hmmm">
 
+## horrifying.png
+
+<img src="horrifying.png" alt="horrifying">
+
 ## horse-head.jpg
 
 <img src="horse-head.jpg" alt="horse-head">
@@ -476,9 +536,17 @@
 
 <img src="i-see-what-you-did-there.png" alt="i-see-what-you-did-there">
 
+## iron-triangle.png
+
+<img src="iron-triangle.png" alt="iron-triangle">
+
 ## its-a-trap.jpg
 
 <img src="its-a-trap.jpg" alt="its-a-trap">
+
+## its-happening.gif
+
+<img src="its-happening.gif" alt="its-happening">
 
 ## its-working.gif
 
@@ -535,6 +603,10 @@
 ## languages-playing-cards.gif
 
 <img src="languages-playing-cards.gif" alt="languages-playing-cards">
+
+## les-grossman-fuck-your-own-face.gif
+
+<img src="les-grossman-fuck-your-own-face.gif" alt="les-grossman-fuck-your-own-face">
 
 ## les-incompetents.gif
 
@@ -612,6 +684,10 @@
 
 <img src="navi.gif" alt="navi">
 
+## nintendo-seal-of-quality.png
+
+<img src="nintendo-seal-of-quality.png" alt="nintendo-seal-of-quality">
+
 ## no-idea-what-im-doing.jpg
 
 <img src="no-idea-what-im-doing.jpg" alt="no-idea-what-im-doing">
@@ -656,6 +732,10 @@
 
 <img src="not-gonna-lie.gif" alt="not-gonna-lie">
 
+## not-good-news-hallucinations.png
+
+<img src="not-good-news-hallucinations.png" alt="not-good-news-hallucinations">
+
 ## not-really-but-ok.gif
 
 <img src="not-really-but-ok.gif" alt="not-really-but-ok">
@@ -696,6 +776,10 @@
 
 <img src="oh-snap.gif" alt="oh-snap">
 
+## omelette-du-fromage.gif
+
+<img src="omelette-du-fromage.gif" alt="omelette-du-fromage">
+
 ## omg.gif
 
 <img src="omg.gif" alt="omg">
@@ -735,6 +819,10 @@
 ## pokerface.png
 
 <img src="pokerface.png" alt="pokerface">
+
+## popcorn.gif
+
+<img src="popcorn.gif" alt="popcorn">
 
 ## progeny.gif
 
@@ -784,6 +872,10 @@
 
 <img src="red-flags3.jpg" alt="red-flags3">
 
+## reinventing-the-wheel.png
+
+<img src="reinventing-the-wheel.png" alt="reinventing-the-wheel">
+
 ## rejecting-new-ideas.gif
 
 <img src="rejecting-new-ideas.gif" alt="rejecting-new-ideas">
@@ -815,6 +907,10 @@
 ## scrubs-no.jpg
 
 <img src="scrubs-no.jpg" alt="scrubs-no">
+
+## seal-of-quallity.png
+
+<img src="seal-of-quallity.png" alt="seal-of-quallity">
 
 ## serenity-now.jpg
 
@@ -859,6 +955,10 @@
 ## soon.jpg
 
 <img src="soon.jpg" alt="soon">
+
+## soup-nazi.gif
+
+<img src="soup-nazi.gif" alt="soup-nazi">
 
 ## spiderman-bagel.gif
 
@@ -944,6 +1044,14 @@
 
 <img src="thats-false.gif" alt="thats-false">
 
+## thats-not-how-this-works.gif
+
+<img src="thats-not-how-this-works.gif" alt="thats-not-how-this-works">
+
+## thats-not-how-this-works.jpg
+
+<img src="thats-not-how-this-works.jpg" alt="thats-not-how-this-works">
+
 ## the-other-way-though.gif
 
 <img src="the-other-way-though.gif" alt="the-other-way-though">
@@ -964,6 +1072,10 @@
 
 <img src="the-tpm-says-its-done.gif" alt="the-tpm-says-its-done">
 
+## the-what.png
+
+<img src="the-what.png" alt="the-what">
+
 ## there-can-be-only-one.jpg
 
 <img src="there-can-be-only-one.jpg" alt="there-can-be-only-one">
@@ -976,6 +1088,14 @@
 
 <img src="this-is-not-normal.jpg" alt="this-is-not-normal">
 
+## this-is-the-way.png
+
+<img src="this-is-the-way.png" alt="this-is-the-way">
+
+## this-is-the-way2.png
+
+<img src="this-is-the-way2.png" alt="this-is-the-way2">
+
 ## threw-up-a-little.gif
 
 <img src="threw-up-a-little.gif" alt="threw-up-a-little">
@@ -983,10 +1103,6 @@
 ## too-busy.jpg
 
 <img src="too-busy.jpg" alt="too-busy">
-
-## trees are sneezing.gif
-
-<img src="trees are sneezing.gif" alt="trees are sneezing">
 
 ## trees-are-sneezing.gif
 
@@ -1064,6 +1180,10 @@
 
 <img src="when-your-joke-ruins-the-conversation.png" alt="when-your-joke-ruins-the-conversation">
 
+## where.gif
+
+<img src="where.gif" alt="where">
+
 ## whine.jpg
 
 <img src="whine.jpg" alt="whine">
@@ -1075,6 +1195,10 @@
 ## whiteboard-interviews.jpg
 
 <img src="whiteboard-interviews.jpg" alt="whiteboard-interviews">
+
+## whoop-ass.jpg
+
+<img src="whoop-ass.jpg" alt="whoop-ass">
 
 ## wibbly-wobbly.gif
 
