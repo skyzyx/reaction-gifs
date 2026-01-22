@@ -104,6 +104,10 @@
 
 <img src="be-cool.jpg" alt="be-cool">
 
+## be-honest.png
+
+<img src="be-honest.png" alt="be-honest">
+
 ## being-the-on-call.gif
 
 <img src="being-the-on-call.gif" alt="being-the-on-call">
@@ -275,6 +279,10 @@
 ## dont-remember-asking-you.gif
 
 <img src="dont-remember-asking-you.gif" alt="dont-remember-asking-you">
+
+## dont-test-on-animals.jpg
+
+<img src="dont-test-on-animals.jpg" alt="dont-test-on-animals">
 
 ## dont-want-to-live-on-this-planet.jpg
 
@@ -492,6 +500,10 @@
 
 <img src="hmmm.png" alt="hmmm">
 
+## honesty.jpg
+
+<img src="honesty.jpg" alt="honesty">
+
 ## horrifying.png
 
 <img src="horrifying.png" alt="horrifying">
@@ -627,6 +639,10 @@
 ## marshmallow.gif
 
 <img src="marshmallow.gif" alt="marshmallow">
+
+## marty-crying.gif
+
+<img src="marty-crying.gif" alt="marty-crying">
 
 ## marxism.gif
 
@@ -932,6 +948,10 @@
 
 <img src="show-me-the-money.gif" alt="show-me-the-money">
 
+## silly-duck.png
+
+<img src="silly-duck.png" alt="silly-duck">
+
 ## silly-hats-only.gif
 
 <img src="silly-hats-only.gif" alt="silly-hats-only">
@@ -1100,9 +1120,17 @@
 
 <img src="threw-up-a-little.gif" alt="threw-up-a-little">
 
+## thumbs-way-up.png
+
+<img src="thumbs-way-up.png" alt="thumbs-way-up">
+
 ## too-busy.jpg
 
 <img src="too-busy.jpg" alt="too-busy">
+
+## toxic-jobs-brian-hogan.png
+
+<img src="toxic-jobs-brian-hogan.png" alt="toxic-jobs-brian-hogan">
 
 ## trees-are-sneezing.gif
 
@@ -1151,6 +1179,10 @@
 ## way-too-excited.gif
 
 <img src="way-too-excited.gif" alt="way-too-excited">
+
+## well-actually.gif
+
+<img src="well-actually.gif" alt="well-actually">
 
 ## what-are-they-kidding.gif
 
