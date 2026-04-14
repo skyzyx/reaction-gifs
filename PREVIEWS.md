@@ -1124,6 +1124,10 @@
 
 <img src="thumbs-way-up.png" alt="thumbs-way-up">
 
+## tinder-toilet-paper.jpg
+
+<img src="tinder-toilet-paper.jpg" alt="tinder-toilet-paper">
+
 ## too-busy.jpg
 
 <img src="too-busy.jpg" alt="too-busy">
@@ -1263,6 +1267,10 @@
 ## yeet.gif
 
 <img src="yeet.gif" alt="yeet">
+
+## yo-dawg-slack.jpg
+
+<img src="yo-dawg-slack.jpg" alt="yo-dawg-slack">
 
 ## you-and-me-same.gif
 
