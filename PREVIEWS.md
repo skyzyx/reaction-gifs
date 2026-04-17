@@ -404,6 +404,10 @@
 
 <img src="forever.png" alt="forever">
 
+## friday.jpg
+
+<img src="friday.jpg" alt="friday">
+
 ## fuck-around-and-find-out.jpg
 
 <img src="fuck-around-and-find-out.jpg" alt="fuck-around-and-find-out">
