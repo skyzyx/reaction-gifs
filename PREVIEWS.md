@@ -996,6 +996,10 @@
 
 <img src="spiderman.jpg" alt="spiderman">
 
+## spirit-airlines-halloween.png
+
+<img src="spirit-airlines-halloween.png" alt="spirit-airlines-halloween">
+
 ## splinter-kids.jpg
 
 <img src="splinter-kids.jpg" alt="splinter-kids">
